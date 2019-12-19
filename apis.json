@@ -1,0 +1,44 @@
+{
+    "name": "SmugMug",
+    "description": "SmugMug is a paid image sharing, image hosting service, and online video platform on which users can upload photos and videos.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28772-api-smugmug-com.jpg",
+    "tags": [
+        "have api",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/smugmug\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SmugMug",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28772-api-smugmug-com.jpg",
+            "humanURL": "https:\/\/api.smugmug.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/smugmug-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/smugmug"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SmugMug"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api.smugmug.com"
+        }
+    ]
+}
