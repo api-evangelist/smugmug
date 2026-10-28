@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SmugMug is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smugmug.com/
+SmugMug is an online photo sharing, storage, and e‑commerce platform that provides photographers, enthusiasts, and businesses with tools to upload, organize, showcase, and sell images. The service offers customizable galleries, robust privacy controls, integration with third‑party apps, and a marketplace for prints and digital downloads, catering to both personal and professional users.
+
+**Areas:** Photography · PhotoSharing · ECommerce · CloudStorage · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smugmug.com/)
+- [Documentation](https://dev.smugmug.com/)
+- [API reference](https://api.smugmug.com/api/v2/doc/reference/user.html)
+- [Pricing](https://www.smugmug.com/plans)
+- [Support](https://help.smugmug.com/)
+- [Blog](https://www.smugmug.com/blog)
+- [Terms of service](https://www.smugmug.com/about/terms)
+- [Privacy policy](https://www.smugmug.com/about/privacy)
+- [GitHub](https://github.com/smugmug)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/smugmug/](https://apis.io/providers/smugmug/).
